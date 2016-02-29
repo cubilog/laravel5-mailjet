@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "cubilog\\Laravel5Mailjet\\": "src/"
+            "Sboo\\Laravel5Mailjet\\": "src/"
         }
     },
     "minimum-stability": "stable"
