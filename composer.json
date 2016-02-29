@@ -1,6 +1,6 @@
 {
-    "name": "sboo/laravel5-mailjet",
-    "description": "Mailjet driver for Laravel 5",
+    "name": "cubilog/laravel5-mailjet",
+    "description": "Mailjet driver for Laravel 5. Forked from sbo/laravel5-mailjet",
     "keywords": ["laravel", "laravel 5", "mailjet", "api", "v3"],
     "license": "MIT",
     "authors": [
